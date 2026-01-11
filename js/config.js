@@ -18,7 +18,7 @@ const SITE_CONFIG = {
     description: '免费在线视频搜索与观看平台',
     logo: 'image/logo.png',
     version: '1.0.3'
-};
+}; 
 
 // API站点配置
 const API_SITES = {
